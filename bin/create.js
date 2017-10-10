@@ -17,7 +17,7 @@ const readFile = filename => fs.readFileSync(filename, 'utf8');
 const writeFile = (filename, data) => fs.outputFileSync(filename, data);
 const copyFile = (source, destination) => fs.copySync(source, destination);
 
-const transformSVGToReactComponent = Promise.coroutine(function*(rawSVG, componentName) {
+const transformSVGToReactComponent = Promise.coroutine(function*(rawSVG, componentName, width, height) {
   const transformedSVG = yield svgToJsx(rawSVG);
 
   // Cleaning up; we only need the content *between* the <svg> tags
@@ -31,7 +31,7 @@ const transformSVGToReactComponent = Promise.coroutine(function*(rawSVG, compone
             import Illustration from './IllustrationBase';
             
             const ${componentName} = props => (
-              <Illustration viewBox="${viewBox}" {...props}>
+              <Illustration viewBox="${viewBox}" width="${width}" height="${height}" {...props}>
                 ${$svg.html()}
               </Illustration>
             );
@@ -48,6 +48,8 @@ const generateSVGs = Promise.coroutine(function* () {
     illustrations.map(
       Promise.coroutine(function* (fileName) {
         const dimension = fileName.split('_')[0];
+        const width = parseInt(dimension.split('x')[0]);
+        const height = parseInt(dimension.split('x')[1]);
 
         // Remove '.svg' and the size (eg.: 14x14) from the fileName
         const fileNameWithoutDimension = path.basename(fileName.substring(fileName.indexOf('_') + 1), '.svg');
@@ -57,7 +59,7 @@ const generateSVGs = Promise.coroutine(function* () {
         const componentName = upperFirst(camelCase(`${illustrationNameWithSize}`));
 
         const rawSVG = readFile(`${ILLUSTRATIONS_DIR}/${fileName}`);
-        const stringifiedSVGComponent = yield transformSVGToReactComponent(rawSVG, componentName);
+        const stringifiedSVGComponent = yield transformSVGToReactComponent(rawSVG, componentName, width, height);
 
         // Write the newly created Component strings to file
         const filename = path.join(LIB_DIR, `${componentName}.js`);
