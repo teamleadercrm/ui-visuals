@@ -1,0 +1,11 @@
+# General
+.idea
+Thumbs.db
+.DS_STORE
+*~
+coverage/
+*.log*
+
+# Client specific
+node_modules
+lib
