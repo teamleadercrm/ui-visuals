@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <path id="120x120_rocket_static-a" d="M52,88 L52,97"/>
+    <path id="120x120_rocket_static-b" d="M70,87 L70,105"/>
+    <path id="120x120_rocket_static-c" d="M83,74 L83,92"/>
+    <path id="120x120_rocket_static-d" d="M37,74 L37,79"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(15 20)">
+      <rect width="90" height="90" x=".5" y=".5" fill="#E3E3E6" rx="45"/>
+      <rect width="33" height="33" x="29" y="63" fill="#FFF"/>
+      <polygon fill="#FFF" stroke="#344B63" stroke-width="2" points="45 47 61 63 45 79 29 63"/>
+      <polygon fill="#57D3D2" stroke="#344B63" stroke-width="2" points="45 47 56 58 45 69 34 58" transform="matrix(-1 0 0 1 90 0)"/>
+      <polygon fill="#FFF" stroke="#344B63" stroke-width="2" points="45 47 52 54 45 61 38 54" transform="matrix(-1 0 0 1 90 0)"/>
+    </g>
+    <g stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(37 8)">
+      <polygon fill="#C0C0C4" points="16 27 16 37 0 37"/>
+      <rect width="20" height="16" x="13" y="41" fill="#E3E3E6"/>
+      <polygon fill="#C0C0C4" points="46 26 46 37 30 37" transform="matrix(-1 0 0 1 76 0)"/>
+      <polygon fill="#FFF" points="8 14 23 0 38 14"/>
+      <rect width="30" height="37" x="8" y="14" fill="#FFF"/>
+      <polygon fill="#F7F7FA" points="0 37 20 37 0 62"/>
+      <polygon fill="#F7F7FA" points="26 37 46 37 26 62" transform="matrix(-1 0 0 1 72 0)"/>
+    </g>
+    <g stroke-linecap="round">
+      <use stroke="#FFF" stroke-width="6" xlink:href="#120x120_rocket_static-a"/>
+      <use stroke="#344B63" stroke-width="2" xlink:href="#120x120_rocket_static-a"/>
+    </g>
+    <g stroke-linecap="round">
+      <use stroke="#FFF" stroke-width="6" xlink:href="#120x120_rocket_static-b"/>
+      <use stroke="#344B63" stroke-width="2" xlink:href="#120x120_rocket_static-b"/>
+    </g>
+    <g stroke-linecap="round">
+      <use stroke="#E3E3E6" stroke-width="6" xlink:href="#120x120_rocket_static-c"/>
+      <use stroke="#344B63" stroke-width="2" xlink:href="#120x120_rocket_static-c"/>
+    </g>
+    <g stroke-linecap="round">
+      <use stroke="#E3E3E6" stroke-width="6" xlink:href="#120x120_rocket_static-d"/>
+      <use stroke="#344B63" stroke-width="2" xlink:href="#120x120_rocket_static-d"/>
+    </g>
+  </g>
+</svg>

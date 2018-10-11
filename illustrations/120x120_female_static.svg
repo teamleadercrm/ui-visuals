@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><title>120x120_female_static</title><g id="bounding"><rect width="120" height="120" fill="none"/></g><g id="illu"><path d="M67.73,68.34A6,6,0,0,0,71,63L70,53A10,10,0,0,0,60,43H59A10,10,0,0,0,49,53L48,63a6,6,0,0,0,3.67,5.53l-1.26,7.12a2,2,0,0,0,2,2.35H67.47a2,2,0,0,0,1.95-2.46Z" fill="#fff"/><path d="M75,96a15,15,0,0,0-30,0" fill="#e3e3e6"/><circle cx="79" cy="40" r="15" fill="#928cff"/><path d="M79,42a1,1,0,0,1-1-1V31a1,1,0,0,1,2,0V41A1,1,0,0,1,79,42Z" fill="#fff"/><circle cx="79" cy="47" r="2" fill="#fff"/><path d="M51.53,24h0a5,5,0,0,1,5,5v0a5,5,0,0,1-5,5h-5a0,0,0,0,1,0,0V29A5,5,0,0,1,51.53,24Z" fill="#e3e3e6"/><path d="M51.53,35h-6V29a6,6,0,1,1,6,6Zm-4-2h4a4,4,0,1,0-4-4Z" fill="#344b63"/><path d="M67.5,32c0,4.42-2.17,8-8,8s-8-3.58-8-8,2.17-8,8-8S67.5,27.58,67.5,32Z" fill="#f7f7fa"/><path d="M60,24c-4.26,0-6.55,1.91-7.49,4.66a10.06,10.06,0,0,0,15,0C66.55,25.91,64.26,24,60,24Z" fill="#e3e3e6"/><path d="M59.5,23c-5.72,0-9,3.28-9,9s3.28,9,9,9,9-3.28,9-9S65.22,23,59.5,23Zm0,2c3.66,0,5.48,1.52,6.34,3.45a9.14,9.14,0,0,1-12.67,0C54,26.52,55.84,25,59.5,25Zm0,14c-5.79,0-7-3.81-7-7a11.13,11.13,0,0,1,.09-1.38,11.23,11.23,0,0,0,13.83,0A11.13,11.13,0,0,1,66.5,32C66.5,35.19,65.29,39,59.5,39Z" fill="#344b63"/><path d="M75,96H65.08l1.26-17h1.13a3,3,0,0,0,2.93-3.69l-1.53-6.49A7.07,7.07,0,0,0,72,62.9L71,53A11,11,0,0,0,60,42H59A11,11,0,0,0,48,52.9L47,63a7,7,0,0,0,3.56,6.09l-1.13,6.39a3,3,0,0,0,3,3.52h1.28l1.26,17H45a1,1,0,0,0,0,2H75a1,1,0,0,0,0-2ZM49,63.1,50,53a9,9,0,0,1,9-9h1a9,9,0,0,1,9,9.1L70,63a5,5,0,0,1-1.63,3.69L67,60.88V54a1,1,0,0,0-2,0v7l1.57,6.75.46,2,.3,1.3H52.25l.21-1.17.34-2L54,61.17,54,53a1,1,0,0,0-2,0v7.91l-1.07,6A4.89,4.89,0,0,1,49,63.1ZM52.38,77a1,1,0,0,1-.76-.36,1,1,0,0,1-.22-.81L51.9,73H67.8l.65,2.77a1,1,0,0,1-1,1.23Zm4.55,19L55.67,79H59V96ZM61,96V79h3.33L63.07,96Z" fill="#344b63"/><polygon points="59 79 59 96 56.93 96 56 83.5 55.67 79 59 79" fill="#e3e3e6"/><polygon points="64.33 79 64 83.5 63.07 96 61 96 61 79 64.33 79" fill="#e3e3e6"/><polygon points="59 79 59 83.5 56 83.5 55.67 79 59 79" fill="#c0c0c4"/><polygon points="64.33 79 64 83.5 61 83.5 61 79 64.33 79" fill="#c0c0c4"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <polygon id="120x120_female_static-a" points="6 27 2 27 0 0 6 0"/>
+    <path id="120x120_female_static-c" d="M16,8 C16,12.42 13.83,16 8,16 C2.17,16 0,12.42 0,8 C0,3.58 2.17,0 8,0 C13.83,0 16,3.58 16,8 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="120" height="120"/>
+    <g transform="translate(44 24)">
+      <circle cx="35" cy="16" r="15" fill="#928CFF" fill-rule="nonzero"/>
+      <path fill="#E3E3E6" fill-rule="nonzero" d="M32,72 C32,63.163444 24.836556,56 16,56 C7.163444,56 0,63.163444 0,72"/>
+      <g transform="translate(10 45)">
+        <polygon fill="#E3E3E6" fill-rule="nonzero" points="6 27 2 27 0 0 6 0"/>
+        <mask id="120x120_female_static-b" fill="#fff">
+          <use xlink:href="#120x120_female_static-a"/>
+        </mask>
+        <path fill="#E3E3E6" fill-rule="nonzero" d="M12,6 L11.31,15.2 C7.66000968,16.0002005 3.87999032,16.0002005 0.23,15.2 L-0.41,6.58 C2.08,3 4.69,-1.17 4.69,-5.03 L7.85,-5.03 C7.85,-1.35 9.9,2.57 12,6 Z" mask="url(#120x120_female_static-b)" style="mix-blend-mode:multiply"/>
+        <polygon stroke="#344B63" stroke-width="2" points="6 27 2 27 0 0 6 0"/>
+      </g>
+      <g transform="translate(16 45)">
+        <polygon fill="#E3E3E6" fill-rule="nonzero" points="4 27 0 27 0 0 6 0"/>
+        <polygon stroke="#344B63" stroke-width="2" points="4 27 0 27 0 0 6 0"/>
+      </g>
+      <path fill="#E3E3E6" fill-rule="nonzero" stroke="#344B63" stroke-width="2" d="M7,0 C9.76142375,3.55271368e-15 12,2.23857625 12,5 C12,7.76142375 9.76142375,10 7,10 L2,10 L2,5 C2,2.23857625 4.23857625,3.55271368e-15 7,3.55271368e-15 Z"/>
+      <g transform="translate(4 19)">
+        <path fill="#FFF" fill-rule="nonzero" d="M17,26 L6,26 C2.6862915,26 0,23.3137085 0,20 L1,10 C1,4.4771525 5.4771525,7.1e-15 11,7.1e-15 L12,7.1e-15 C17.5228475,7.1e-15 22,4.4771525 22,10 L23,20 C23,23.3137085 20.3137085,26 17,26 Z"/>
+        <path stroke="#344B63" stroke-width="2" d="M17,26 L6,26 C2.6862915,26 0,23.3137085 0,20 L1,10 C1,4.4771525 5.4771525,7.1e-15 11,7.1e-15 L12,7.1e-15 C17.5228475,7.1e-15 22,4.4771525 22,10 L23,20 C23,23.3137085 20.3137085,26 17,26 Z"/>
+      </g>
+      <g transform="translate(7)">
+        <path fill="#F7F7FA" fill-rule="nonzero" d="M16,8 C16,12.42 13.83,16 8,16 C2.17,16 0,12.42 0,8 C0,3.58 2.17,0 8,0 C13.83,0 16,3.58 16,8 Z"/>
+        <mask id="120x120_female_static-d" fill="#fff">
+          <use xlink:href="#120x120_female_static-c"/>
+        </mask>
+        <ellipse cx="8" cy=".5" fill="#E3E3E6" fill-rule="nonzero" stroke="#344B63" stroke-width="2" mask="url(#120x120_female_static-d)" rx="9" ry="7.5"/>
+        <path stroke="#344B63" stroke-width="2" d="M16,8 C16,12.42 13.83,16 8,16 C2.17,16 0,12.42 0,8 C0,3.58 2.17,0 8,0 C13.83,0 16,3.58 16,8 Z"/>
+      </g>
+      <path fill="#FFF" fill-rule="nonzero" stroke="#344B63" stroke-linecap="round" stroke-width="2" d="M22,30 L22,37 L25.42,51.54 C25.560756,52.1355712 25.4210919,52.7628064 25.0409357,53.2423881 C24.6607795,53.7219697 24.0819772,54.0011075 23.47,54 L8.38,54 C7.78295591,54.0092271 7.21301723,53.7512029 6.82601563,53.2964761 C6.43901402,52.8417492 6.27543351,52.2378883 6.38,51.65 L9,37 L9,29"/>
+      <path fill="#FFF" fill-rule="nonzero" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7,48 L24,48"/>
+      <path stroke="#344B63" stroke-linecap="round" stroke-width="2" d="M31,72 L1,72"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M35,7 L35,17"/>
+      <circle cx="35" cy="23" r="2" fill="#FFF" fill-rule="nonzero"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="60" height="60"/>
+    <rect width="60" height="60"/>
+    <g transform="translate(6 6)">
+      <path fill="#D3F2F2" fill-rule="nonzero" stroke="#344B63" stroke-width="2" d="M0,43.4545455 L0,38 L39.3692308,38 L39.3692308,43.4545455 C39.3692308,45.9649307 41.228971,48 43.5230769,48 L4.15384615,48 C1.85974027,48 0,45.9649307 0,43.4545455 Z"/>
+      <path fill="#FFF" fill-rule="nonzero" stroke="#344B63" stroke-width="2" d="M48,44 L48,2 C48,0.8954305 47.1045695,-4.4784483e-13 46,-4.47641924e-13 L10.0217104,4.10782519e-13 C8.91714088,4.3649285e-13 8.02171038,0.8954305 8.02171038,2 C8.02171038,2.00210526 8.0217137,2.00421051 8.02172035,2.00631576 L8.15384615,43.8461538 C8.15384615,46.1402597 6.29410588,48 4,48 L44,48 C46.209139,48 48,46.209139 48,44 Z"/>
+      <g fill="#344B63" fill-rule="nonzero" transform="translate(15 9)">
+        <rect width="27" height="2" y="5" rx="1"/>
+        <rect width="27" height="2" y="11" rx="1"/>
+        <rect width="27" height="2" y="17" rx="1"/>
+        <rect width="2" height="23" x="22" rx="1"/>
+        <rect width="2" height="23" x="16" rx="1"/>
+      </g>
+      <path stroke="#57D3D2" stroke-linecap="round" stroke-width="2" d="M42,42 L36,42 C36,42 39.2128964,37 36,37 C31.9636945,37 31.7620944,42 30,42 C30,37.5412809 24,37.7867649 24,42 L21.9261538,42" style="mix-blend-mode:multiply"/>
+    </g>
+  </g>
+</svg>

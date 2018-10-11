@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero" stroke="#344B63" stroke-width="4" transform="translate(40 27)">
+      <path fill="#D3F2F2" d="M0,130 L0,118 L80,118 L80,130 C80,135.522847 84.4771525,140 90,140 L10,140 C4.4771525,140 0,135.522847 0,130 Z"/>
+      <path fill="#FFF" d="M121,124 L121,8 C121,3.581722 117.418278,-8.11624501e-16 113,0 L29,1.95399252e-14 C24.581722,2.03515497e-14 21,3.581722 21,8 L21,130 C21,135.522847 16.5228475,140 11,140 L105,140 C113.836556,140 121,132.836556 121,124 Z"/>
+    </g>
+    <path stroke="#57D3D2" stroke-linecap="round" stroke-width="4" d="M143,151 L127.26,151 C127.26,151 137,141 129,141 C122.52,141 118.02,149.38 113,151 C107.98,152.62 115.56,144.84 111,144.14 C106.44,143.44 103.6,147.88 101,151 L96.6,151.22" style="mix-blend-mode:multiply"/>
+    <path fill="#FFF" stroke="#344B63" stroke-linecap="round" stroke-width="4" d="M0 9L76 9M63 0L63 60M0 23L76 23M0 37L76 37M0 51L76 51" transform="translate(73 65)"/>
+    <g stroke="#344B63" stroke-width="4" transform="translate(61 27)">
+      <path fill="#57D3D2" fill-rule="nonzero" d="M100,27 L100,8 C100,3.581722 96.418278,-5.85233025e-13 92,-5.844214e-13 L8,-5.844214e-13 C3.581722,-5.83609776e-13 -5.41083001e-16,3.581722 0,8 L0,27 L100,27 Z"/>
+      <path fill="#FFF" stroke-linecap="round" d="M12,14 L42,14"/>
+    </g>
+    <path fill="#FFF" stroke="#344B63" stroke-linecap="round" stroke-width="4" d="M0 1L18 1M91 1L161 1M160 1L166 1" transform="translate(14 166)"/>
+  </g>
+</svg>

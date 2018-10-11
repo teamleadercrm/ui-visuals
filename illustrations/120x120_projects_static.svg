@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <path id="120x120_projects_static-a" d="M4,0 C1.791,0 0,1.791 0,4 L0,47 C0,49.762 2.239,52 5,52 L63,52 C65.762,52 68,49.762 68,47 L68,13 C68,10.791 66.209,9 64,9 L26.503,9 C25.401,9 24.348,8.546 23.592,7.744 L17.476,1.256 C16.721,0.454 15.667,0 14.566,0 L4,0 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(26 35)">
+    <path fill="#E3E3E6" d="M64,15 L18,15 L18,3 L62,3 C63.104,3 64,3.896 64,5 L64,15 Z"/>
+    <path stroke="#465667" stroke-width="2" d="M64,15 L18,15 L18,3 L62,3 C63.104,3 64,3.896 64,5 L64,15 Z"/>
+    <path fill="#F7F7FA" stroke="#465667" stroke-width="2" d="M49,5 L49,19.5 L39,19.5 L39,5 C39,3.896 39.896,3 41,3 L47,3 C48.104,3 49,3.896 49,5 Z"/>
+    <path fill="#57D3D2" stroke="#465667" stroke-width="2" d="M59,2 L59,16.5 L49,16.5 L49,2 C49,0.896 49.896,0 51,0 L57,0 C58.104,0 59,0.896 59,2 Z"/>
+    <path fill="#F7F7FA" stroke="#465667" stroke-width="2" d="M38.5,5 L38.5,19.5 L28.5,19.5 L28.5,5 C28.5,3.896 29.396,3 30.5,3 L36.5,3 C37.604,3 38.5,3.896 38.5,5 Z"/>
+    <path fill="#FFF" d="M63,52 L5,52 C2.239,52 0,49.762 0,47 L0,4 C0,1.791 1.791,0 4,0 L14.566,0 C15.667,0 16.721,0.454 17.476,1.256 L23.592,7.744 C24.348,8.546 25.401,9 26.503,9 L64,9 C66.209,9 68,10.791 68,13 L68,47 C68,49.762 65.762,52 63,52"/>
+    <mask id="120x120_projects_static-b" fill="#fff">
+      <use xlink:href="#120x120_projects_static-a"/>
+    </mask>
+    <polygon fill="#E3E3E6" points="0 52 68 52 68 42 0 42" mask="url(#120x120_projects_static-b)"/>
+    <path stroke="#344B63" stroke-width="2" d="M63,52 L5,52 C2.239,52 0,49.762 0,47 L0,4 C0,1.791 1.791,0 4,0 L14.566,0 C15.667,0 16.721,0.454 17.476,1.256 L23.592,7.744 C24.348,8.546 25.401,9 26.503,9 L64,9 C66.209,9 68,10.791 68,13 L68,47 C68,49.762 65.762,52 63,52 Z"/>
+    <path stroke="#465667" stroke-linecap="round" stroke-width="2" d="M32 26L45 26M0 11L13 11M32 32L51 32"/>
+    <path fill="#FFF" d="M0.1313,0.5078 L11.0003,0.5078" transform="translate(0 9)"/>
+  </g>
+</svg>

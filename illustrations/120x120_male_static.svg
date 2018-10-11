@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><title>120x120_male_static</title><g id="bounding"><rect width="120" height="120" fill="none"/></g><g id="illu"><path d="M62,43H57A10,10,0,0,0,47,53V63a6,6,0,0,0,5,5.91v1.88H68V68.65A6,6,0,0,0,72,63V53A10,10,0,0,0,62,43Z" fill="#fff"/><path d="M75,96a15,15,0,0,0-30,0" fill="#e3e3e6"/><path d="M75,96H67V70H53V96H45a1,1,0,0,0,0,2H75a1,1,0,0,0,0-2ZM55,96V72h4V96Zm6,0V72h4V96Z" fill="#344b63"/><rect x="55" y="77" width="4" height="18" fill="#e3e3e6"/><rect x="55" y="72" width="4" height="5" fill="#c0c0c4"/><rect x="61" y="77" width="4" height="18" fill="#e3e3e6"/><rect x="61" y="72" width="4" height="5" fill="#c0c0c4"/><circle cx="79" cy="40" r="15" fill="#57d3d2"/><path d="M79,42a1,1,0,0,1-1-1V31a1,1,0,0,1,2,0V41A1,1,0,0,1,79,42Z" fill="#fff"/><circle cx="79" cy="47" r="2" fill="#fff"/><path d="M62,42H57A11,11,0,0,0,46,53V63a7,7,0,0,0,5,6.69V72H69V69.32A7,7,0,0,0,73,63V53A11,11,0,0,0,62,42Zm9,21a5,5,0,0,1-2,4V58a1,1,0,0,0-2,0V70H53V52a1,1,0,0,0-2,0V67.57A5,5,0,0,1,48,63V53a9,9,0,0,1,9-9h5a9,9,0,0,1,9,9Z" fill="#344b63"/><path d="M50,32c0,4.42,2.44,8,9,8s9-3.58,9-8-2.44-8-9-8S50,27.58,50,32Z" fill="#f7f7fa"/><path d="M58.6,30.4c2.83,2.83,6.9,3.41,9.39,1.44C67.94,27.5,65.48,24,59,24a13.93,13.93,0,0,0-3,.3A8.4,8.4,0,0,0,58.6,30.4Z" fill="#e3e3e6"/><path d="M50,31.81A6.23,6.23,0,0,0,56,30,6.24,6.24,0,0,0,57.81,24C52.23,24.45,50.07,27.75,50,31.81Z" fill="#e3e3e6"/><path d="M59,23c-6.36,0-10,3.28-10,9s3.64,9,10,9,10-3.28,10-9S65.36,23,59,23Zm8,8.33a4.93,4.93,0,0,1-3.13.64A8,8,0,0,1,57,25.14,14,14,0,0,1,59,25C65.15,25,66.78,28.3,67,31.33ZM55.09,25.6A9.2,9.2,0,0,0,56,28.4a6.07,6.07,0,0,1-.71.85A5.5,5.5,0,0,1,51.06,31,6,6,0,0,1,55.09,25.6ZM59,39c-6,0-7.67-3.08-7.95-6l.29,0a7.65,7.65,0,0,0,5.32-2.33c.15-.15.29-.31.42-.47a10.42,10.42,0,0,0,.8.92A9.66,9.66,0,0,0,63.63,34a8,8,0,0,0,.85,0,6.9,6.9,0,0,0,2.38-.42C66.41,36.32,64.54,39,59,39Z" fill="#344b63"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <path id="120x120_male_static-a" d="M0,8 C0,12.42 2.44,16 9,16 C15.56,16 18,12.42 18,8 C18,3.58 15.56,0 9,0 C2.44,0 0,3.58 0,8 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="120" height="120"/>
+    <g transform="translate(44 24)">
+      <path fill="#E3E3E6" fill-rule="nonzero" d="M32,72 C32,63.163444 24.836556,56 16,56 C7.163444,56 0,63.163444 0,72" style="mix-blend-mode:multiply"/>
+      <g transform="translate(3 19)">
+        <path fill="#FFF" fill-rule="nonzero" d="M19,26 L6,26 C2.6862915,26 -7.1e-15,23.3137085 -7.1e-15,20 L-7.1e-15,10 C-7.1e-15,7.3478351 1.0535684,4.80429597 2.92893219,2.92893219 C4.80429597,1.0535684 7.3478351,7.1e-15 10,7.1e-15 L15,7.1e-15 C20.5228475,7.1e-15 25,4.4771525 25,10 L25,20 C25,23.3137085 22.3137085,26 19,26 Z"/>
+        <path stroke="#344B63" stroke-width="2" d="M19,26 L6,26 C2.6862915,26 -7.1e-15,23.3137085 -7.1e-15,20 L-7.1e-15,10 C-7.1e-15,7.3478351 1.0535684,4.80429597 2.92893219,2.92893219 C4.80429597,1.0535684 7.3478351,7.1e-15 10,7.1e-15 L15,7.1e-15 C20.5228475,7.1e-15 25,4.4771525 25,10 L25,20 C25,23.3137085 22.3137085,26 19,26 Z"/>
+      </g>
+      <g transform="translate(6)">
+        <path fill="#F7F7FA" fill-rule="nonzero" d="M0,8 C0,12.42 2.44,16 9,16 C15.56,16 18,12.42 18,8 C18,3.58 15.56,0 9,0 C2.44,0 0,3.58 0,8 Z"/>
+        <mask id="120x120_male_static-b" fill="#fff">
+          <use xlink:href="#120x120_male_static-a"/>
+        </mask>
+        <g fill="#E3E3E6" fill-rule="nonzero" stroke="#344B63" stroke-width="2" mask="url(#120x120_male_static-b)">
+          <g transform="translate(-6 -8)">
+            <ellipse cx="8.501" cy="10.495" rx="6.05" ry="4.89" transform="rotate(-45 8.501 10.495)"/>
+            <ellipse cx="19.003" cy="9.997" rx="6.22" ry="7.7" transform="rotate(-45 19.003 9.997)"/>
+          </g>
+        </g>
+        <path stroke="#344B63" stroke-width="2" d="M0,8 C0,12.42 2.44,16 9,16 C15.56,16 18,12.42 18,8 C18,3.58 15.56,0 9,0 C2.44,0 0,3.58 0,8 Z"/>
+      </g>
+      <rect width="6" height="27" x="10" y="45" fill="#E3E3E6" fill-rule="nonzero" stroke="#344B63" stroke-width="2"/>
+      <rect width="6" height="27" x="16" y="45" fill="#E3E3E6" fill-rule="nonzero" stroke="#344B63" stroke-width="2"/>
+      <polyline fill="#FFF" fill-rule="nonzero" stroke="#344B63" stroke-linecap="round" stroke-width="2" points="24 34 24 47 8 47 8 28"/>
+      <path stroke="#344B63" stroke-linecap="round" stroke-width="2" d="M31,72 L1,72"/>
+      <circle cx="35" cy="16" r="15" fill="#57D3D2" fill-rule="nonzero" style="mix-blend-mode:multiply"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M35,7 L35,17"/>
+      <circle cx="35" cy="23" r="2" fill="#FFF" fill-rule="nonzero"/>
+    </g>
+  </g>
+</svg>
