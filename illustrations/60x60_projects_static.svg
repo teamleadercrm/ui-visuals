@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#D3F2F2" stroke="#344B63" stroke-width="2" d="M14,14 L47,14 C49.209139,14 51,15.790861 51,18 L51,26 L14,26 L14,14 Z"/>
+    <path stroke="#465667" stroke-linecap="round" stroke-width="2" d="M18 30L31 30M18 36L37 36"/>
+    <path fill="#D3F2F2" stroke="#344B63" stroke-width="2" d="M46,14 L50,14 C51.1045695,14 52,14.8954305 52,16 L52,26 L44,26 L44,16 C44,14.8954305 44.8954305,14 46,14 Z"/>
+    <path fill="#F7F7FA" stroke="#344B63" stroke-width="2" d="M39,14 L43,14 C44.1045695,14 45,14.8954305 45,16 L45,26 L37,26 L37,16 C37,14.8954305 37.8954305,14 39,14 Z"/>
+    <path fill="#57D3D2" stroke="#344B63" stroke-width="2" d="M32,11 L37,11 C38.1045695,11 39,11.8954305 39,13 L39,23 L30,23 L30,13 C30,11.8954305 30.8954305,11 32,11 Z"/>
+    <path fill="#FFF" stroke="#344B63" stroke-width="2" d="M49,48 L11,48 C8.239,48 6,45.762 6,43 L6,16 C6,13.791 7.791,12 10,12 L18.566,12 C19.667,12 20.721,12.454 21.476,13.256 L24.592,17.744 C25.348,18.546 26.401,19 27.503,19 L50,19 C52.209,19 54,20.791 54,23 L54,43 C54,45.762 51.762,48 49,48 Z"/>
+    <rect width="27" height="2" x="13" y="33" fill="#344B63" fill-rule="nonzero" rx="1"/>
+    <rect width="7" height="2" x="13" y="27" fill="#344B63" fill-rule="nonzero" rx="1"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <path id="120x120_blueprint_static-a" d="M54,1 L101,1 C102.104569,1 103,1.8954305 103,3 L103,85 C103,86.1045695 102.104569,87 101,87 L37,87 C35.8954305,87 35,86.1045695 35,85 L35,20 L54,1 Z M67,29 L67,63 L83,53 L67,29 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(-12 16)">
+      <mask id="120x120_blueprint_static-b" fill="#fff">
+        <use xlink:href="#120x120_blueprint_static-a"/>
+      </mask>
+      <use fill="#FFF" xlink:href="#120x120_blueprint_static-a"/>
+      <path stroke="#C0C0C4" stroke-dasharray="1 3" stroke-linecap="round" stroke-linejoin="round" d="M90 98L33 12 90 98zM105 86L48 0 105 86zM108.40625 2.5L.59375 71.5 108.40625 2.5zM108.40625 36.5L.59375 105.5 108.40625 36.5z" mask="url(#120x120_blueprint_static-b)"/>
+    </g>
+    <g stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(30 45)">
+      <polygon fill="#57D3D2" points="25 0 25 16 0 16"/>
+      <polygon fill="#57D3D2" points="25 34 13 16 25 16"/>
+      <polygon fill="#57D3D2" points="35 15 54.5 15 41 24"/>
+      <polygon points="25 0 25 34 41 24"/>
+    </g>
+    <path stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42,17 L89,17 C90.1045695,17 91,17.8954305 91,19 L91,101 C91,102.104569 90.1045695,103 89,103 L25,103 C23.8954305,103 23,102.104569 23,101 L23,36 L42,17 Z M55,45 L55,79 L71,69 L55,45 Z"/>
+    <polygon fill="#57D3D2" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="90.643 28.786 106.643 52.786 90.643 62.786" transform="rotate(-26 98.643 45.786)"/>
+    <polygon fill="#E3E3E6" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 17 42 36 23 36"/>
+  </g>
+</svg>

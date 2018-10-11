@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd">
+    <g stroke="#344B63" stroke-width="4" transform="translate(36 23)">
+      <path d="M128,79 L128,64.5696203 C128,39.4022139 99.346224,19 64,19 C28.653776,19 0,39.4022139 0,64.5696203 L0,79"/>
+      <path fill="#F7F7FA" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" d="M129,84 L119,84 L119,63 C119,32.6243388 94.3756612,8 64,8 C33.6243388,8 9,32.6243388 9,63 L9,84 L-1,84 L-1,63 C-1,27.1014913 28.1014913,-2 64,-2 C99.8985087,-2 129,27.1014913 129,63 L129,84 Z"/>
+    </g>
+    <g stroke="#344B63" stroke-width="4" transform="translate(103 98)">
+      <path d="M22.3292144,73.8461538 L24.8985654,73.8461538 C42.5414211,73.8461538 56.8557452,59.5664534 56.8984716,41.9236495 L57,1.42108547e-14"/>
+      <path fill="#57D3D2" stroke-linecap="round" stroke-linejoin="round" d="M8.74239744,62.0521209 L20.0187089,66.1563626 C23.1325763,67.2897176 24.7380988,70.7327717 23.6047438,73.8466392 C22.4713887,76.9605066 19.0283346,78.5660291 15.9144672,77.432674 L4.63815572,73.3284323 C1.5242883,72.1950773 -0.0812341958,68.7520231 1.05212086,65.6381557 C2.18547592,62.5242883 5.62853002,60.9187658 8.74239744,62.0521209 Z"/>
+    </g>
+    <g transform="translate(35 87)">
+      <path fill="#57D3D2" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M22,0 L28.2429504,5.20245866 C31.8908318,8.24235987 34,12.7455217 34,17.4939991 L34,42.5060009 C34,47.2544783 31.8908318,51.7576401 28.2429504,54.7975413 L22,60 L22,0 Z"/>
+      <path fill="#F7F7FA" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M13,7.46522439 L13,52.5347756 L-2,43.5229179 L-2,16.4770821 L13,7.46522439 Z"/>
+      <path fill="#D3F2F2" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M8,4.76393202 L24,-3.23606798 L24,63 L8,56.3333333 L8,4.76393202 Z"/>
+      <polygon fill="#57D3D2" points="17 2.5 22 0 22 60 17 58"/>
+      <g transform="matrix(-1 0 0 1 130 0)">
+        <path fill="#57D3D2" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M22,0 L28.2429504,5.20245866 C31.8908318,8.24235987 34,12.7455217 34,17.4939991 L34,42.5060009 C34,47.2544783 31.8908318,51.7576401 28.2429504,54.7975413 L22,60 L22,0 Z"/>
+        <path fill="#F7F7FA" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M13,7.46522439 L13,52.5347756 L-2,43.5229179 L-2,16.4770821 L13,7.46522439 Z"/>
+        <path fill="#D3F2F2" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M8,4.76393202 L24,-3.23606798 L24,63 L8,56.3333333 L8,4.76393202 Z"/>
+        <polygon fill="#57D3D2" points="17 2.5 22 0 22 60 17 58"/>
+      </g>
+    </g>
+  </g>
+</svg>
