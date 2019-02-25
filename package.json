@@ -1,38 +1,29 @@
 {
   "name": "@teamleader/ui-illustrations",
   "description": "Teamleader UI Illustrations",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "author": "Teamleader <development@teamleader.eu> (https://www.teamleader.eu)",
   "bugs": {
     "url": "https://github.com/teamleadercrm/ui-illustrations/issues"
   },
+  "dependencies": {},
   "devDependencies": {
+    "@babel/cli": "^7.2.3",
     "@babel/core": "^7.1.0",
     "@babel/plugin-proposal-export-default-from": "^7.0.0",
-    "@babel/plugin-transform-runtime": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
-    "@balajmarius/svg-to-jsx": "^1.0.7",
-    "babel-eslint": "^10.0.1",
+    "@babel/register": "^7.0.0",
+    "@balajmarius/svg2jsx": "^1.0.7",
     "bluebird": "^3.5.0",
     "cheerio": "^1.0.0-rc.2",
     "cli-color": "^1.2.0",
-    "eslint": "^5.13.0",
-    "eslint-config-prettier": "^4.0.0",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-config-standard-react": "^7.0.2",
-    "eslint-plugin-babel": "^5.3.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-react": "^7.3.0",
     "eslint-plugin-standard": "^4.0.0",
     "fs-extra": "^4.0.1",
     "glob": "^7.1.2",
     "lodash.camelcase": "^4.3.0",
     "lodash.upperfirst": "^4.3.1",
-    "prettier": "^1.5.3"
+    "prettier": "^1.16.4"
   },
   "engines": {
     "node": "^8.0.0",
@@ -45,7 +36,8 @@
     "ui"
   ],
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "cjs/index.js",
+  "module": "es/index.js",
   "peerDependencies": {
     "react": "^15.6.1 || ^16.0.0"
   },
@@ -55,12 +47,17 @@
     "url": "git+https://github.com/teamleadercrm/ui-illustrations.git"
   },
   "scripts": {
-    "build": "node ./bin/create && eslint lib --fix && babel lib --out-dir lib",
-    "lint": "eslint src bin",
-    "lint:fix": "npm run lint -- --fix",
+    "build": "npm run build:es; npm run build:cjs",
+    "build:cjs": "NODE_ENV=cjs babel lib --out-dir cjs",
+    "build:es": "NODE_ENV=es babel lib --out-dir es",
+    "lint": "npm run lint:src; npm run lint:lib",
+    "lint:fix": "npm run lint:src:fix; npm run lint:lib:fix",
+    "lint:lib": "prettier \"lib/*.js\"",
+    "lint:lib:fix": "prettier --write \"lib/*.js\"",
+    "lint:src": "prettier \"{bin,src}/*.js\"",
+    "lint:src:fix": "prettier --write \"{bin,src}/*.js\"",
+    "prebuild": "node ./bin/create && npm run lint:lib:fix",
     "prepare": "npm run build"
   },
-  "dependencies": {
-    "@babel/cli": "^7.2.3"
-  }
+  "sideEffects": false
 }

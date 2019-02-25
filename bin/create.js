@@ -4,8 +4,8 @@ const cheerio = require('cheerio');
 const camelCase = require('lodash.camelcase');
 const upperFirst = require('lodash.upperfirst');
 const fs = Promise.promisifyAll(require('fs-extra'));
-const {globAsync} = Promise.promisifyAll(require('glob'));
-const svgToJsx = require('@balajmarius/svg-to-jsx');
+const { globAsync } = Promise.promisifyAll(require('glob'));
+const svgToJsx = require('@balajmarius/svg2jsx');
 const clc = require('cli-color');
 
 const ROOT_DIR = path.join(__dirname, '..');
@@ -39,14 +39,14 @@ const transformSVGToReactComponent = Promise.coroutine(function*(rawSVG, compone
             export default ${componentName};`;
 });
 
-const generateSVGs = Promise.coroutine(function* () {
+const generateSVGs = Promise.coroutine(function*() {
   const illustrationsToProcess = yield globAsync(`${ILLUSTRATIONS_DIR}/*`);
   const illustrations = illustrationsToProcess.map(folder => path.basename(folder));
   let index = '';
 
   yield Promise.all(
     illustrations.map(
-      Promise.coroutine(function* (fileName) {
+      Promise.coroutine(function*(fileName) {
         const dimension = fileName.split('_')[0];
         const width = parseInt(dimension.split('x')[0]);
         const height = parseInt(dimension.split('x')[1]);
@@ -67,8 +67,8 @@ const generateSVGs = Promise.coroutine(function* () {
 
         // Write a simple export index file for easier access
         index += `export ${componentName} from './${componentName}';\n`;
-      })
-    )
+      }),
+    ),
   );
 
   const indexFilename = path.join(LIB_DIR, `index.js`);
