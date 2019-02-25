@@ -5,7 +5,7 @@ const camelCase = require('lodash.camelcase');
 const upperFirst = require('lodash.upperfirst');
 const fs = Promise.promisifyAll(require('fs-extra'));
 const {globAsync} = Promise.promisifyAll(require('glob'));
-const svgToJsx = require('@balajmarius/svg-to-jsx');
+const svgToJsx = require('@balajmarius/svg2jsx');
 const clc = require('cli-color');
 
 const ROOT_DIR = path.join(__dirname, '..');
