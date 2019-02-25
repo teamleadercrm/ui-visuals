@@ -6,12 +6,14 @@
   "bugs": {
     "url": "https://github.com/teamleadercrm/ui-illustrations/issues"
   },
+  "dependencies": {},
   "devDependencies": {
+    "@babel/cli": "^7.2.3",
     "@babel/core": "^7.1.0",
     "@babel/plugin-proposal-export-default-from": "^7.0.0",
-    "@babel/plugin-transform-runtime": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
     "@balajmarius/svg2jsx": "^1.0.7",
     "bluebird": "^3.5.0",
     "cheerio": "^1.0.0-rc.2",
@@ -45,15 +47,12 @@
   },
   "scripts": {
     "build": "node ./bin/create && npm run lint:lib:fix && babel lib --out-dir lib",
-    "lint:src": "prettier \"{bin,src}/*.js\"",
-    "lint:src:fix": "prettier --write \"{bin,src}/*.js\"",
-    "lint:lib": "prettier \"lib/*.js\"",
-    "lint:lib:fix": "prettier --write \"lib/*.js\"",
     "lint": "npm run lint:src; npm run lint:lib",
     "lint:fix": "npm run lint:src:fix; npm run lint:lib:fix",
+    "lint:lib": "prettier \"lib/*.js\"",
+    "lint:lib:fix": "prettier --write \"lib/*.js\"",
+    "lint:src": "prettier \"{bin,src}/*.js\"",
+    "lint:src:fix": "prettier --write \"{bin,src}/*.js\"",
     "prepare": "npm run build"
-  },
-  "dependencies": {
-    "@babel/cli": "^7.2.3"
   }
 }
