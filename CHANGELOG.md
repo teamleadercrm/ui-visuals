@@ -10,7 +10,7 @@
 
 ### Fixed
 
-## [0.0.18] - 2019-03-14
+## [0.0.18] - 2019-04-16
 
 ### Added
 - Account created visual
