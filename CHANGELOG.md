@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## [0.0.20] - 2019-05-29
+
+### Added
+- Quarterly billing cycle visual
+- Yearly billing cycle visual
+
 ## [0.0.19] - 2019-04-19
 
 ### Added
