@@ -10,6 +10,14 @@
 
 ### Fixed
 
+## [0.0.21] - 2019-08-14
+
+### Added
+- 60x60 CRM visual
+- 60x60 Invoices visual
+- 60x60 Projects
+- 60x60 Tasks done
+
 ## [0.0.20] - 2019-05-29
 
 ### Added
