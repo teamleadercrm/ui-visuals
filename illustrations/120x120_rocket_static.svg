@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#E3E3E6" d="M60,21 C84.8528137,21 105,41.1471863 105,66 C105,85.027603 93.1905021,101.29695 76.5012422,107.878699 L76.5,83.5 L43.5,83.5 L43.4997578,107.878699 C26.8099697,101.2976 15,85.027983 15,66 C15,41.1471863 35.1471863,21 60,21 Z"/>
+    <polygon fill="#FFF" stroke="#344B63" stroke-width="2" points="60 67 76 83 60 99 44 83"/>
+    <polygon fill="#57D3D2" stroke="#344B63" stroke-width="2" points="60 67 49 78 60 89 71 78"/>
+    <polygon fill="#FFF" stroke="#344B63" stroke-width="2" points="60 67 53 74 60 81 67 74"/>
+    <path stroke="#344B63" stroke-linecap="round" stroke-width="2" d="M83 74L83 92M37 74L37 79"/>
+    <polygon fill="#C0C0C4" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="53 35 53 45 37 45"/>
+    <polygon fill="#E3E3E6" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="50 49 70 49 70 65 50 65"/>
+    <polygon fill="#C0C0C4" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="67 34 67 45 83 45"/>
+    <polygon fill="#FFF" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45 22 75 22 75 59 45 59"/>
+    <polygon fill="#F7F7FA" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="37 45 57 45 37 70"/>
+    <polygon fill="#F7F7FA" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="83 45 63 45 83 70"/>
+    <polygon fill="#FFF" stroke="#344B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45 22 60 8 75 22"/>
+  </g>
+</svg>
