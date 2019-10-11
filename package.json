@@ -27,7 +27,7 @@
   },
   "engines": {
     "node": ">=8.0.0",
-    "npm": "^5.0.0"
+    "npm": ">=5.0.0"
   },
   "homepage": "https://github.com/teamleadercrm/ui-illustrations#readme",
   "keywords": [
