@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## [0.0.23] - 2019-11-08
+
+### Changed
+
+- Allow all node versions bigger than v8
+
 ## [0.0.22] - 2019-09-20
 
 ### Added
