@@ -10,6 +10,14 @@
 
 ### Fixed
 
+## [0.0.25] - 2020-01-28
+
+### Changed
+
+- 120x120 Integrations (with correct bounding box)
+- 120x120 No access (with correct bounding box)
+- 120x120 Privacy (with correct bounding box)
+
 ## [0.0.24] - 2020-01-28
 
 ### Added
