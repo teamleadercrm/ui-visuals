@@ -10,6 +10,14 @@
 
 ### Fixed
 
+## [0.0.24] - 2020-01-28
+
+### Added
+
+- 120x120 Integrations
+- 120x120 No access
+- 120x120 Privacy
+
 ## [0.0.23] - 2019-11-08
 
 ### Changed
