@@ -10,6 +10,15 @@
 
 ### Fixed
 
+## [0.0.26] - 2020-03-11
+
+### Added
+
+- 24x24 Excel file type
+  24x24 Pdf file type
+  24x24 Word file type
+  24x24 any other file type
+
 ## [0.0.25] - 2020-01-28
 
 ### Changed
