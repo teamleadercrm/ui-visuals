@@ -10,6 +10,12 @@ Teamleader's illustrations package is [available on npm](https://www.npmjs.com/p
 $ npm install --save @teamleader/ui-illustrations
 ```
 
+or
+
+```bash
+$ yarn install @teamleader/ui-illustrations
+```
+
 If you're already using [teamleader-ui](https://www.npmjs.com/package/teamleader-ui) in your application, you can access the illustrations using the sub-repo notation `'@teamleader-ui/illustrations'`.
 
 ## Usage
