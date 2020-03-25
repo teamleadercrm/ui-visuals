@@ -4,13 +4,28 @@
 
 ### Changed
 
-- `Build process & dependency resolution`: changed from npm to yarn, added yarn.lock ([@driesd](https://github.com/driesd) in [#112](https://github.com/teamleadercrm/ui-visuals/pull/112))
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Dependency updates
+
+## [0.0.27] - 2020-03-25
+
+### Changed
+
+- `Build process & dependency resolution`: changed from npm to yarn, added yarn.lock ([@driesd](https://github.com/driesd) in [#112](https://github.com/teamleadercrm/ui-visuals/pull/112))
+
+### Dependency updates
+
+- `@babel/core` from `7.8.7` to `7.9.0`
+- `@babel/preset-env` from `7.8.7` to `7.9.0`
+- `@babel/preset-react` from `7.8.3` to `7.9.4`
+- `@babel/register` from `7.8.6` to `7.9.0`
+- `fs-extra` from `8.1.0` to `9.0.0`
+- `prettier` from `1.19.1` to `2.0.2`
 
 ## [0.0.26] - 2020-03-11
 
