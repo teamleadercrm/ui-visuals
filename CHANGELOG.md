@@ -4,6 +4,8 @@
 
 ### Changed
 
+- `Build process & dependency resolution`: changed from npm to yarn, added yarn.lock ([@driesd](https://github.com/driesd) in [#112](https://github.com/teamleadercrm/ui-visuals/pull/112))
+
 ### Deprecated
 
 ### Removed
@@ -15,9 +17,9 @@
 ### Added
 
 - 24x24 Excel file type
-  24x24 Pdf file type
-  24x24 Word file type
-  24x24 any other file type
+- 24x24 Pdf file type
+- 24x24 Word file type
+- 24x24 any other file type
 
 ## [0.0.25] - 2020-01-28
 
