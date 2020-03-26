@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [0.0.28] - 2020-03-26
+
+### Added
+
+- 84x84 Invoice success ([@driesd](https://github.com/driesd) in [#113](https://github.com/teamleadercrm/ui-visuals/pull/113))
+
 ## [0.0.27] - 2020-03-25
 
 ### Changed
