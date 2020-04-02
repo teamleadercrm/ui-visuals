@@ -12,6 +12,14 @@
 
 ### Dependency updates
 
+## [0.0.29] - 2020-04-02
+
+### Added
+
+- 36x36 Empty state pointer ([@driesd](https://github.com/driesd) in [#114](https://github.com/teamleadercrm/ui-visuals/pull/114))
+- 48x48 Empty state pointer ([@driesd](https://github.com/driesd) in [#114](https://github.com/teamleadercrm/ui-visuals/pull/114))
+- 130x130 Empty state pointer ([@driesd](https://github.com/driesd) in [#114](https://github.com/teamleadercrm/ui-visuals/pull/114))
+
 ## [0.0.28] - 2020-03-26
 
 ### Added
