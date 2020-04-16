@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [0.0.31] - 2020-04-15
+
+### Added
+
+- 240x240 Goodbye illustration
+
 ## [0.0.30] - 2020-04-02
 
 ### Changed
