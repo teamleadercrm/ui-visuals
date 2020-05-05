@@ -18,6 +18,13 @@
 
 - 60x60 Upload illustration
 
+### Dependency updates
+
+- `@babel/preset-env` from `7.9.0` to `7.9.5`
+- `prettier` from `2.0.4` to `2.0.5`
+- `@babel/preset-env` from `7.9.5` to `7.9.6`
+- `@babel/core` from `7.9.0` to `7.9.6`
+
 ## [0.0.31] - 2020-04-15
 
 ### Added
