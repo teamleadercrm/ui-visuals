@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [0.0.32] - 2020-05-05
+
+### Added
+
+- 60x60 Upload illustration
+
 ## [0.0.31] - 2020-04-15
 
 ### Added
@@ -88,11 +94,13 @@
 ## [0.0.22] - 2019-09-20
 
 ### Added
+
 - 120x120 Rocket
 
 ## [0.0.21] - 2019-08-14
 
 ### Added
+
 - 60x60 CRM visual
 - 60x60 Invoices visual
 - 60x60 Projects
@@ -101,27 +109,32 @@
 ## [0.0.20] - 2019-05-29
 
 ### Added
+
 - Quarterly billing cycle visual
 - Yearly billing cycle visual
 
 ## [0.0.19] - 2019-04-19
 
 ### Added
+
 - Expired visual
 
 ## [0.0.18] - 2019-04-19
 
 ### Added
+
 - Account created visual
 
 ## [0.0.17] - 2019-03-14
 
 ### Added
+
 - Construction icon
 
 ## [0.0.16] - 2019-02-25
 
 ### Fixed
+
 This package now has proper support for tree shaking.
 
 ## [0.0.15] - 2019-02-11
