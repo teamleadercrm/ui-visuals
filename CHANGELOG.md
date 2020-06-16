@@ -12,6 +12,15 @@
 
 ### Dependency updates
 
+## [0.0.33] - 2020-06-16
+
+### Added
+
+- 120x120 Data warning illustration
+- 120x120 Departments warning illustration
+- 120x120 Functionalities warning illustration
+- 120x120 Integrations warning illustration
+
 ## [0.0.32] - 2020-05-05
 
 ### Added
