@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 3
+  reviewers:
+  - driesd
+  - ArnaudWeyts
+  - sanderbrugge
+  - lowiebenoot
+  - mikeverf
+  labels:
+  - dependencies
