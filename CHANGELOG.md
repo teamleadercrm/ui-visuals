@@ -12,6 +12,18 @@
 
 ### Dependency updates
 
+## [0.0.34] - 2020-11-26
+
+### Added
+
+- 60x60 Folder illustration
+- 60x60 Contacts illustration
+- 60x60 Timesheets illustration
+- 60x60 Handshake illustration
+- 60x60 Payments illustration
+- 60x60 Planning illustration
+- 60x60 Puzzle illustration
+
 ## [0.0.33] - 2020-06-16
 
 ### Added
