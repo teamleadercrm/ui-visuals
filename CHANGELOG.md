@@ -12,6 +12,13 @@
 
 ### Dependency updates
 
+## [0.0.35] - 2020-12-02
+
+### Fixed
+
+- Fixed wrongly exported Payments illustration
+- Fixed wrongly exported Planning illustration
+
 ## [0.0.34] - 2020-11-26
 
 ### Added
