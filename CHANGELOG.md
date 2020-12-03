@@ -14,6 +14,13 @@
 
 ## [0.0.35] - 2020-12-02
 
+### Added
+
+- 14x14 Excel file type
+- 14x14 Pdf file type
+- 14x14 Word file type
+- 14x14 any other file type
+
 ### Fixed
 
 - Fixed wrongly exported Payments illustration
