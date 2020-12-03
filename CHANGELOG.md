@@ -14,10 +14,23 @@
 
 ## [0.0.35] - 2020-12-02
 
+### Added
+
+- 14x14 Excel file type
+- 14x14 Pdf file type
+- 14x14 Word file type
+- 14x14 any other file type
+
 ### Fixed
 
 - Fixed wrongly exported Payments illustration
 - Fixed wrongly exported Planning illustration
+
+### Dependency updates
+
+- `@babel/core` from `7.12.8` to `7.12.9`
+- `@babel/preset-env` from `7.12.1` to `7.12.7`
+- `prettier` from `2.2.0` to `2.2.1`
 
 ## [0.0.34] - 2020-11-26
 
