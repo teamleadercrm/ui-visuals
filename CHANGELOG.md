@@ -12,6 +12,17 @@
 
 ### Dependency updates
 
+## [0.0.36] - 2021-01-18
+
+### Added
+
+- 288x288 deal process
+- 288x288 invoice
+- 288x288 welcome onboard
+- 60x60 business
+- 60x60 chatbubble
+- 60x60 people
+
 ## [0.0.35] - 2020-12-02
 
 ### Added
