@@ -10,6 +10,23 @@
 
 ### Fixed
 
+## [1.0.0] - 2021-03-11
+
+### Added
+
+- 60x60 avatar
+- 60x60 error
+- 60x60 task
+- 60x60 timesheets
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
 ### Dependency updates
 
 ## [0.0.36] - 2021-01-18
