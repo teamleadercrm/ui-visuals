@@ -1,0 +1,9 @@
+<svg width="60" height="60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 12a2 2 0 012-2h24a2 2 0 012 2v36a2 2 0 01-2 2H18a2 2 0 01-2-2V12z" fill="#fff"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M15 12a3 3 0 013-3h24a3 3 0 013 3v36a3 3 0 01-3 3H18a3 3 0 01-3-3V12zm3-1a1 1 0 00-1 1v36a1 1 0 001 1h24a1 1 0 001-1V12a1 1 0 00-1-1H18z" fill="#1A1C20"/>
+  <path d="M25 16.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z" fill="#E4E4E6"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M22.5 15a1.5 1.5 0 100 3 1.5 1.5 0 000-3zM19 16.5a3.5 3.5 0 117 0 3.5 3.5 0 01-7 0zm0 9.5a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm8 0a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm8 0a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm-16 5a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm0 5a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm8-5a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm8 0a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1zm-8 5a1 1 0 011-1h4a1 1 0 110 2h-4a1 1 0 01-1-1z" fill="#1A1C20"/>
+  <path d="M53 44a9 9 0 11-18 0 9 9 0 0118 0z" fill="#fff"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M44 51a7 7 0 100-14 7 7 0 000 14zm0 2a9 9 0 100-18 9 9 0 000 18z" fill="#1A1C20"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M43 38.5h2v4.42l2.996 1.712-.992 1.736L43 44.08V38.5z" fill="#1A1C20"/>
+</svg>
