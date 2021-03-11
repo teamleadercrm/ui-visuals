@@ -2,6 +2,18 @@
 
 ### Added
 
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+## [0.0.37] - 2021-03-11
+
+### Added
+
 - 60x60 avatar
 - 60x60 error
 - 60x60 task
