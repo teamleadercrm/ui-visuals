@@ -10,6 +10,14 @@
 
 ### Fixed
 
+### Dependency updates
+
+## [1.1.0] - 2021-03-16
+
+### Dependency updates
+
+- Add React 17 as a valid peer dependency version
+
 ## [1.0.0] - 2021-03-11
 
 ### Added
@@ -18,16 +26,6 @@
 - 60x60 error
 - 60x60 task
 - 60x60 timesheets
-
-### Changed
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Dependency updates
 
 ## [0.0.36] - 2021-01-18
 
