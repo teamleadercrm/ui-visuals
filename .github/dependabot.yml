@@ -6,10 +6,13 @@ updates:
     interval: daily
   open-pull-requests-limit: 3
   reviewers:
-  - driesd
-  - ArnaudWeyts
-  - sanderbrugge
-  - lowiebenoot
-  - mikeverf
+    - driesd
+    - ArnaudWeyts
+    - lowiebenoot
+    - sanderbrugge
+    - JorenSaeyTL
+    - lorgan3
+    - EOSullivanBerlin
+    - timdegroote
   labels:
   - dependencies
