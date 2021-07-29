@@ -12,6 +12,21 @@
 
 ### Dependency updates
 
+## [1.2.0] - 2021-07-29
+
+### Added
+
+- 60x60 customers
+- 60x60 paid
+- 60x60 stopwatch
+- 60x60 task
+- 60x60 twinkle
+- 60x60 workorders
+
+### Changed
+
+- 60x60 handshake
+
 ## [1.1.0] - 2021-03-16
 
 ### Dependency updates
