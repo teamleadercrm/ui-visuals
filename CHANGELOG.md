@@ -2,8 +2,6 @@
 
 ### Added
 
-- 120x120 fresh
-
 ### Changed
 
 ### Deprecated
@@ -13,6 +11,12 @@
 ### Fixed
 
 ### Dependency updates
+
+## [1.3.0] - 2021-08-18
+
+### Added
+
+- 120x120 fresh
 
 ## [1.2.0] - 2021-07-29
 
