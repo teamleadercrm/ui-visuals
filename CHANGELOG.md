@@ -2,6 +2,8 @@
 
 ### Added
 
+- 120x120 no connection
+
 ### Changed
 
 ### Deprecated
