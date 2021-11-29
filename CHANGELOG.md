@@ -1,4 +1,4 @@
-## [unreleased]
+## [unreleased] - 2021-11-29
 
 ### Added
 
@@ -11,6 +11,12 @@
 ### Fixed
 
 ### Dependency updates
+
+## [1.4.1] - 2021-11-29
+
+### Changed
+
+- Rename no_connection => no_connection_static
 
 ## [1.4.0] - 2021-11-29
 
