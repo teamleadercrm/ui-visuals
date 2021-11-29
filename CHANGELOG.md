@@ -18,16 +18,6 @@
 
 - 120x120 no connection
 
-### Changed
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Dependency updates
-
 ## [1.3.0] - 2021-08-18
 
 ### Added
