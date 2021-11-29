@@ -2,8 +2,6 @@
 
 ### Added
 
-- 120x120 no connection
-
 ### Changed
 
 ### Deprecated
@@ -13,6 +11,12 @@
 ### Fixed
 
 ### Dependency updates
+
+## [1.4.0] - 2021-11-29
+
+### Added
+
+- 120x120 no connection
 
 ## [1.3.0] - 2021-08-18
 
