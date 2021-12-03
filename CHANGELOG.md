@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.5.0]
+
+### Changed
+
+- 120x120 search
+
 ## [1.4.1] - 2021-11-29
 
 ### Changed
