@@ -12,7 +12,7 @@
 
 ### Dependency updates
 
-## [1.5.0]
+## [1.5.0] - 2021-12-03
 
 ### Changed
 
