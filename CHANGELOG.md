@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.6.0] - 2022-01-06
+
+### Added
+
+- 120x120 bullhorn success
+
 ## [1.5.0] - 2021-12-03
 
 ### Changed
