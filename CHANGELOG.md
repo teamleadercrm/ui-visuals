@@ -12,6 +12,14 @@
 
 ### Dependency updates
 
+## [1.6.1] - 2022-02-24
+
+### Added
+
+- 60x60 download
+- 60x60 postal
+- 60x60 email
+
 ## [1.6.0] - 2022-01-06
 
 ### Added
