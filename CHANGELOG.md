@@ -20,6 +20,10 @@
 - 60x60 postal
 - 60x60 email
 
+### Changed
+
+- 60x60 upload
+
 ## [1.6.0] - 2022-01-06
 
 ### Added
