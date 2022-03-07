@@ -22,6 +22,7 @@
 
 - 60x60 download
 - 60x60 postal
+- 60x60 upload
 
 ## [1.7.0] - 2022-02-24
 
