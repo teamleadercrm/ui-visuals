@@ -12,6 +12,17 @@
 
 ### Dependency updates
 
+## [1.8.0] - 2022-03-07
+
+### Added
+
+- 60x60 mail cloud
+
+### Changed
+
+- 60x60 download
+- 60x60 postal
+
 ## [1.7.0] - 2022-02-24
 
 ### Added
