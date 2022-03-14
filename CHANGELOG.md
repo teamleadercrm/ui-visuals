@@ -2,8 +2,6 @@
 
 ### Added
 
-- 84x84 gift plain
-
 ### Changed
 
 ### Deprecated
@@ -13,6 +11,12 @@
 ### Fixed
 
 ### Dependency updates
+
+## [1.9.0] - 2022-03-14
+
+### Added
+
+- 84x84 gift plain
 
 ## [1.8.0] - 2022-03-07
 
