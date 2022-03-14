@@ -2,6 +2,8 @@
 
 ### Added
 
+- 84x84 gift plain
+
 ### Changed
 
 ### Deprecated
