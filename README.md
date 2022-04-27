@@ -37,8 +37,8 @@ render(<App />, document.querySelector('#app'));
 ## Development
 
 ### Prerequisites
-- node `^7.0.0`
-- npm `^5.0.0`
+- node `^12.0.0`
+- npm `^6.9.0`
 
 ### Getting started
 Clone this repo

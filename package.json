@@ -25,8 +25,8 @@
     "prettier": "^2.0.2"
   },
   "engines": {
-    "node": ">=8.0.0",
-    "npm": ">=5.0.0"
+    "node": ">=12",
+    "npm": ">=6.9.0"
   },
   "homepage": "https://github.com/teamleadercrm/ui-illustrations#readme",
   "keywords": [
