@@ -19,14 +19,14 @@
     "cheerio": "^1.0.0-rc.2",
     "cli-color": "^2.0.0",
     "fs-extra": "^10.0.0",
-    "glob": "^7.1.2",
+    "glob": "^8.0.1",
     "lodash.camelcase": "^4.3.0",
     "lodash.upperfirst": "^4.3.1",
     "prettier": "^2.0.2"
   },
   "engines": {
-    "node": ">=8.0.0",
-    "npm": ">=5.0.0"
+    "node": ">=12",
+    "npm": ">=6.9.0"
   },
   "homepage": "https://github.com/teamleadercrm/ui-illustrations#readme",
   "keywords": [
