@@ -5,15 +5,5 @@ updates:
   schedule:
     interval: daily
   open-pull-requests-limit: 3
-  reviewers:
-    - driesd
-    - ArnaudWeyts
-    - lowiebenoot
-    - JorenSaeyTL
-    - lorgan3
-    - jelledc
-    - qubis741
-    - farazatarodi
-    - stefaandevylder
   labels:
   - dependencies
