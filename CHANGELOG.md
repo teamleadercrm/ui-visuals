@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.11.0] - 2022-08-22
+
+### Added
+
+- 25x15 Vectera logo
+
 ## [1.10.0] - 2022-03-28
 
 ### Added
