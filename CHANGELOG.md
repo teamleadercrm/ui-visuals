@@ -12,6 +12,10 @@
 
 ### Dependency updates
 
+## [1.16.0] - 2023-02-24
+
+- 120x120 Users
+
 ## [1.15.0] - 2023-02-23
 
 - 60x60 User invite
