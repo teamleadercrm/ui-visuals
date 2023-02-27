@@ -12,6 +12,13 @@
 
 ### Dependency updates
 
+## [1.16.1] - 2023-02-24
+
+### Fixed
+
+- Ran build to include users illustration
+
+
 ## [1.16.0] - 2023-02-24
 
 - 120x120 Users
