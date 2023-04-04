@@ -12,12 +12,18 @@
 
 ### Dependency updates
 
+## [1.17.0] - 2023-04-03
+
+### Changed
+
+- 60x60 timesheets
+- 60x60 invoices
+
 ## [1.16.1] - 2023-02-24
 
 ### Fixed
 
 - Ran build to include users illustration
-
 
 ## [1.16.0] - 2023-02-24
 
