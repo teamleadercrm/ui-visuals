@@ -12,6 +12,14 @@
 
 ### Dependency updates
 
+## [1.18.0] - 2023-06-19
+
+### Added
+
+- 60x60 file type excel
+- 60x60 file type word
+- 60x60 file type pdf
+
 ## [1.17.0] - 2023-04-03
 
 ### Changed
