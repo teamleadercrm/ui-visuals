@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.19.0] - 2023-08-29
+
+### Added
+
+- 60x60 security
+
 ## [1.18.0] - 2023-06-19
 
 ### Added
