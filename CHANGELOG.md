@@ -12,7 +12,13 @@
 
 ### Dependency updates
 
-## [1.20] - 2023-09-26
+## [1.20.1] - 2023-09-26
+
+### Fixed
+
+- 240x120 truck background fix
+
+## [1.20.0] - 2023-09-26
 
 ### Added
 
