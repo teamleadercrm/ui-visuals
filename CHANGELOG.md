@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.21.0] - 2023-10-04
+
+### Added
+
+- 120x120 features
+
 ## [1.20.1] - 2023-09-26
 
 ### Fixed
