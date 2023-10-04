@@ -1,0 +1,35 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <g fill="transparent">
+        <path d="M28 33C28 31.3431 29.3431 30 31 30H65C66.6569 30 68 31.3431 68 33V40.1143V67.5571V91C68 92.6569 66.6569 94 65 94H57.5H31C29.3431 94 28 92.6569 28 91V33Z" fill="white" stroke="#1A1C20" stroke-width="2"/>
+        <path d="M59 38.7935V93H31C31 93 30.22 93.07 29.67 92.5L59 38.7935Z" fill="#E4E4E6"/>
+        <mask id="path-3-inside-1_464_3113" fill="white">
+            <rect x="34" y="56" width="30" height="27" rx="1"/>
+        </mask>
+        <rect x="34" y="56" width="30" height="27" rx="1" stroke="#1A1C20" stroke-width="4" mask="url(#path-3-inside-1_464_3113)"/>
+        <mask id="path-4-inside-2_464_3113" fill="white">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M52.9 26H55C56.1046 26 57 26.8954 57 28V32C57 33.1046 56.1046 34 55 34H41C39.8954 34 39 33.1046 39 32V28C39 26.8954 39.8954 26 41 26H43.1C43.5633 23.7178 45.581 22 48 22C50.419 22 52.4367 23.7178 52.9 26Z"/>
+        </mask>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M52.9 26H55C56.1046 26 57 26.8954 57 28V32C57 33.1046 56.1046 34 55 34H41C39.8954 34 39 33.1046 39 32V28C39 26.8954 39.8954 26 41 26H43.1C43.5633 23.7178 45.581 22 48 22C50.419 22 52.4367 23.7178 52.9 26Z" fill="#E4E4E6"/>
+        <path d="M52.9 26L50.94 26.3979L51.2652 28H52.9V26ZM43.1 26V28H44.7348L45.06 26.3979L43.1 26ZM52.9 28H55V24H52.9V28ZM55 28H59C59 25.7909 57.2091 24 55 24V28ZM55 28V32H59V28H55ZM55 32V36C57.2091 36 59 34.2091 59 32H55ZM55 32H41V36H55V32ZM41 32H41H37C37 34.2091 38.7909 36 41 36V32ZM41 32V28H37V32H41ZM41 28V24C38.7909 24 37 25.7909 37 28H41ZM41 28H43.1V24H41V28ZM45.06 26.3979C45.3378 25.0294 46.551 24 48 24V20C44.6111 20 41.7887 22.4062 41.14 25.6021L45.06 26.3979ZM48 24C49.449 24 50.6622 25.0294 50.94 26.3979L54.86 25.6021C54.2113 22.4062 51.3889 20 48 20V24Z" fill="#1A1C20" mask="url(#path-4-inside-2_464_3113)"/>
+        <line x1="35" y1="44" x2="45" y2="44" stroke="#1A1C20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="35" y1="50" x2="59" y2="50" stroke="#1A1C20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M95 94H60L60 39L82.6433 39L88.8671 44.0878L95 49.1013V94Z" fill="white" stroke="#1A1C20" stroke-width="2"/>
+        <path d="M89.3694 44.7761L89.3694 44.7761L89.3753 44.7809L94.6492 49H83L83 39.601L89.3694 44.7761Z" fill="#E4E4E6" stroke="#1A1C20" stroke-width="2"/>
+        <line x1="84" y1="68" x2="88" y2="68" stroke="#1A1C20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="84" y1="75" x2="88" y2="75" stroke="#1A1C20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="84" y1="82" x2="88" y2="82" stroke="#1A1C20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="67" y="51" width="10" height="10" rx="5" fill="#E4E4E6" stroke="#1A1C20" stroke-width="2"/>
+        <rect x="44" y="68" width="34" height="34" rx="3" fill="white" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <path d="M44 71C44 69.3431 45.3431 68 47 68H75C76.6569 68 78 69.3431 78 71V75H44V71Z" fill="#57D3D2" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="50" y1="82" x2="54" y2="82" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="59" y1="82" x2="63" y2="82" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="68" y1="82" x2="72" y2="82" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="50" y1="88" x2="54" y2="88" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="59" y1="88" x2="63" y2="88" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="68" y1="88" x2="72" y2="88" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="50" y1="94" x2="54" y2="94" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="59" y1="94" x2="63" y2="94" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+        <line x1="68" y1="94" x2="72" y2="94" stroke="#1A1C20" stroke-width="2" stroke-linecap="round"/>
+    </g>
+</svg>
