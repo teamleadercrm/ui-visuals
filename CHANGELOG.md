@@ -12,6 +12,12 @@
 
 ### Dependency updates
 
+## [1.23.0] - 2023-12-05
+
+### Added
+
+- 84x84 plain marketing gift
+
 ## [1.22.0] - 2023-10-04
 
 ### Added
